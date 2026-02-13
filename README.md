@@ -1,19 +1,19 @@
 # Color Theme Switcher
 
-A simple JavaScript project where users can click a color box to change the entire page background theme.
+A simple JavaScript DOM project where clicking a color box changes the entire page background theme.
 
 ## Features
 - Clickable color boxes
-- Dynamic background change
-- Smooth UI interaction
+- Dynamic background color change
+- Smooth UI response
 
-## Tech Used
+## Tech Stack
 HTML
 CSS
 JavaScript
 
-## How to Run
-Open index.html in browser.
-
 ## Live Demo
-(coming soon)
+https://ankurgarg9810.github.io/colour-theme-switcher/
+
+## How It Works
+JavaScript event listeners detect which color box is clicked and update the document background color accordingly.
